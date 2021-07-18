@@ -1,0 +1,8 @@
+export const types={
+    AGREGAR:'AGREGAR',
+    ELIMINAR_ONE:'ELIMINAR_ONE',
+    LIMPIAR:'LIMPIAR',
+    ELIMINAR_TODO:'ELIMINAR_TODO',
+    PRICE:'PRICE'
+
+}
